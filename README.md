@@ -1,9 +1,5 @@
 ### 机器学习笔记
 
-对目前主流的机器学习算法进行公式推导、问题分析以及代码实现（主要基于numpy）：  
-
-
-
 [01_线性模型_线性回归](./notebooks/01_%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
 
 [01_线性模型_线性回归_正则化(Lasso,Ridge,ElasticNet)](./notebooks/01_%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92_%E6%AD%A3%E5%88%99%E5%8C%96(Lasso%2CRidge%2CElasticNet).ipynb)
